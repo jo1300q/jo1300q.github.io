@@ -79,7 +79,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .profile {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 .sidebar-wrapper .contact-list .svg-inline--fa {
   margin-right: 5px;
@@ -87,7 +87,7 @@ p {
   vertical-align: middle;
 }
 .sidebar-wrapper .contact-list li {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
@@ -103,7 +103,7 @@ p {
   font-size: 16px;
   font-weight: 700;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 .sidebar-wrapper .degree {
   font-size: 14px;
@@ -111,7 +111,7 @@ p {
   margin-bottom: 5px;
 }
 .sidebar-wrapper .education-container .item {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 .sidebar-wrapper .education-container .item:last-child {
   margin-bottom: 0;
@@ -135,7 +135,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .languages-list li {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
@@ -147,7 +147,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .certificate-list li {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   font-weight:350;
 }
 .sidebar-wrapper .certificate-list li:last-child {
@@ -158,7 +158,7 @@ p {
 }
 .sidebar-wrapper .interests-list li {
   color: rgba(255, 255, 255, 0.85);
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .sidebar-wrapper .interests-list li:last-child {
   margin-bottom: 0;
